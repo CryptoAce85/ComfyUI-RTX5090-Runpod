@@ -32,6 +32,7 @@ run the following commands separately:
 
    chmod +x /workspace/install_conda.sh
    /workspace/install_conda.sh
+   
 This sets up the Conda environment (Comfyui). (Takes approximately 25min)
 
 ## 6. Run these commands separately:
@@ -42,7 +43,7 @@ RES4LYF, WAS Node Suite, and ComfyUI_tinyterraNodes. (Takes approximately 15min)
 
 
 ## 7. Make the startup script executable:
-chmod +x /workspace/Run_Comfyui.sh
+                      chmod +x /workspace/Run_Comfyui.sh
 
 ## 8. Start ComfyUI:
 Run the startup command:
