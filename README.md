@@ -79,6 +79,16 @@ workspace/ComfyUI/models/loras
 Run the startup command:
 
     ./Run_Comfyui.sh
+    
+## 13. for installing more in terminal make sure you have a (comfyui) before ouinput, 
+## like this example:  (comfyui) root@fa3d277f1403:/workspace#
+
+ ## you get the comfy ui eviorment by Bash:
+    
+    /workspace/miniconda3/bin/conda init bash
+    conda activate comfyui
+
+
 
 (Total time for install is approximately 45min)
 
