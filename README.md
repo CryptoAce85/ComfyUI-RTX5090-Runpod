@@ -96,7 +96,7 @@ And for deleting in all sub maps in output map aswell, Bash:
 find /workspace/ComfyUI/output -type f -name "*.png" -delete
 
 =======================================================================
-=======================================================================
+
 
 For making the LoRA's feel free to use
  my AI OFM NSFW .TXT file creator:
