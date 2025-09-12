@@ -32,7 +32,7 @@ run the following commands separately:
 
                       chmod +x /workspace/install_conda.sh
 
-                      
+-----                      
                       
                       /workspace/install_conda.sh
    
