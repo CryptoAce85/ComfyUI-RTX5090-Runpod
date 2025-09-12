@@ -83,7 +83,7 @@ Run the startup command:
 ## 13. for installing more in terminal make sure you have a (comfyui) before input, 
 ## like this example:  (comfyui) root@fa3d277f1403:/workspace#
 
- ## you get the comfy ui eviorment by Bash:
+ ## you get the comfy ui enviorment by Bash:
     
     /workspace/miniconda3/bin/conda init bash
     conda activate comfyui
