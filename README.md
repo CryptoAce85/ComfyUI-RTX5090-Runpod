@@ -1,4 +1,4 @@
-# ComfyUI-RTX5090-Runpod
+# How to Use ComfyUI with RTX 5090 onRunpod
 1-Click installers for RTX 5090 for comfyui and WAN2.2+workflow
 
 ## Instructions for 1-Click RTX 5090 install's on runpod
