@@ -32,6 +32,7 @@ run the following commands separately:
 
                       chmod +x /workspace/install_conda.sh
                       
+                      
                       /workspace/install_conda.sh
    
 This sets up the Conda environment (Comfyui). (Takes approximately 25min)
@@ -39,6 +40,7 @@ This sets up the Conda environment (Comfyui). (Takes approximately 25min)
 ## 6. Run these commands separately:
 
                       chmod +x /workspace/download_WAN2.2_T2I_models_fp8.sh
+                      
 
                       /workspace/download_WAN2.2_T2I_models_fp8.sh
 
@@ -48,11 +50,15 @@ RES4LYF, WAS Node Suite, and ComfyUI_tinyterraNodes. (Takes approximately 15min)
 
 ## 7. Make the startup script executable:
                       chmod +x /workspace/Run_Comfyui.sh
+                      
 
 ## 8. Start ComfyUI:
 Run the startup command:
+
                       ./Run_Comfyui.sh
-                                                                                       (Takes approximately 5min)
+                                                                                     
+ (Takes approximately 5min)
+                                                                                       
 
 
 
@@ -68,6 +74,7 @@ workspace/ComfyUI/models/loras
 
 ## 12. And when you restart a new pod you only need to
 Run the startup command:
+
                       ./Run_Comfyui.sh
 
 
