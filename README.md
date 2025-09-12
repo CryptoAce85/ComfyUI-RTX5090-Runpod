@@ -68,7 +68,7 @@ Run the startup command:
 "Wan22_Image_Gen_FP8_VRAM_CLEAN.json" 
 inside Comfy UI
 
-## 11. Add the your Wan2.2 loRAs in:
+## 11. Add your Wan2.2 loRAs in:
 workspace/ComfyUI/models/loras
 
 
