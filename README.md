@@ -103,7 +103,7 @@ all .png files from that directroy just Bash:
 
 And for deleting in all sub maps in output map aswell, Bash:
 
-find /workspace/ComfyUI/output -type f -name "*.png" -delete
+    find /workspace/ComfyUI/output -type f -name "*.png" -delete
 
 =======================================================================
 
