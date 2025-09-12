@@ -80,7 +80,7 @@ Run the startup command:
 
     ./Run_Comfyui.sh
     
-## 13. for installing more in terminal make sure you have a (comfyui) before ouinput, 
+## 13. for installing more in terminal make sure you have a (comfyui) before input, 
 ## like this example:  (comfyui) root@fa3d277f1403:/workspace#
 
  ## you get the comfy ui eviorment by Bash:
