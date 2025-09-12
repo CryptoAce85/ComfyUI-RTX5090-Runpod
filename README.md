@@ -2,7 +2,7 @@
 1-Click installers for RTX 5090 for comfyui and WAN2.2+workflow
 
 ## Instructions for 1-Click RTX 5090 install's on runpod
-#    Created by 🐺 CryptoAce85 🐺
+    Created by 🐺 CryptoAce85 🐺
                       
 ## 1. Access RunPod and Create Instance:
 
