@@ -31,6 +31,7 @@ in the /workspace directory on the new HDD
 run the following commands separately:
 
                       chmod +x /workspace/install_conda.sh
+
                       
                       
                       /workspace/install_conda.sh
@@ -40,6 +41,7 @@ This sets up the Conda environment (Comfyui). (Takes approximately 25min)
 ## 6. Run these commands separately:
 
                       chmod +x /workspace/download_WAN2.2_T2I_models_fp8.sh
+
                       
 
                       /workspace/download_WAN2.2_T2I_models_fp8.sh
