@@ -40,24 +40,24 @@ This sets up the Conda environment (Comfyui). (Takes approximately 25min)
 
 ## 6. Run these commands separately:
 
-                      chmod +x /workspace/download_WAN2.2_T2I_models_fp8.sh
+    chmod +x /workspace/download_WAN2.2_T2I_models_fp8.sh
 
  -----                     
 
-                      /workspace/download_WAN2.2_T2I_models_fp8.sh
+    /workspace/download_WAN2.2_T2I_models_fp8.sh
 
 This downloads models and installs 
 RES4LYF, WAS Node Suite, and ComfyUI_tinyterraNodes. (Takes approximately 15min)
 
 
 ## 7. Make the startup script executable:
-                      chmod +x /workspace/Run_Comfyui.sh
+    chmod +x /workspace/Run_Comfyui.sh
                       
 
 ## 8. Start ComfyUI:
 Run the startup command:
 
-                      ./Run_Comfyui.sh
+    ./Run_Comfyui.sh
                                                                                      
  (Takes approximately 5min)
                                                                                        
@@ -77,7 +77,7 @@ workspace/ComfyUI/models/loras
 ## 12. And when you restart a new pod you only need to
 Run the startup command:
 
-                      ./Run_Comfyui.sh
+    ./Run_Comfyui.sh
 
 (Total time for install is approximately 45min)
 
@@ -88,7 +88,7 @@ DONE! ❤
 ## 13. If your HDD is full of images and you want to delete 
 all .png files from that directroy just Bash:
 
-                      rm /workspace/ComfyUI/output/*.png
+    rm /workspace/ComfyUI/output/*.png
 
 And for deleting in all sub maps in output map aswell, Bash:
 
