@@ -42,7 +42,7 @@ This sets up the Conda environment (Comfyui). (Takes approximately 25min)
 
                       chmod +x /workspace/download_WAN2.2_T2I_models_fp8.sh
 
-                      
+ -----                     
 
                       /workspace/download_WAN2.2_T2I_models_fp8.sh
 
