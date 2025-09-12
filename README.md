@@ -77,8 +77,7 @@ Run the startup command:
 
                       ./Run_Comfyui.sh
 
-
-     (Total time for install is approximately 45min)
+(Total time for install is approximately 45min)
 
 DONE! ❤
 --------------------------------------------------------------------------------------
