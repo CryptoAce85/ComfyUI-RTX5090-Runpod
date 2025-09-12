@@ -30,11 +30,11 @@ Open a terminal in JupyterLab and ensure you’re
 in the /workspace directory on the new HDD 
 run the following commands separately:
 
-                      chmod +x /workspace/install_conda.sh
+    chmod +x /workspace/install_conda.sh
 
 -----                      
                       
-                      /workspace/install_conda.sh
+    /workspace/install_conda.sh
    
 This sets up the Conda environment (Comfyui). (Takes approximately 25min)
 
