@@ -22,11 +22,11 @@ Expose HTTP Ports: 8888 (JupyterLab), 8188 (ComfyUI). Note: Ensure no port confl
 Access the pod via JupyterLab at http://<your-pod-ip>:8888 (token provided on RunPod console).
 
 ## 4.Upload the following 3 files to /workspace/:
-Run_Comfyui.sh (content below)
+Run_Comfyui.sh   (content below)
 
-install_conda.sh (content from your setup, e.g., sets up Conda environment)
+install_conda.sh   (content from your setup, e.g., sets up Conda environment)
 
-download_WAN2.2_T2I_models_fp8.sh (content below)
+download_WAN2.2_T2I_models_fp8.sh   (content below)
 
 ## 5. Install and Configure:
 Open a terminal in JupyterLab and ensure you’re 
