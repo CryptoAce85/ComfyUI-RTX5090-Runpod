@@ -23,7 +23,9 @@ Access the pod via JupyterLab at http://<your-pod-ip>:8888 (token provided on Ru
 
 ## 4.Upload the following 3 files to /workspace/:
 Run_Comfyui.sh (content below)
+
 install_conda.sh (content from your setup, e.g., sets up Conda environment)
+
 download_WAN2.2_T2I_models_fp8.sh (content below)
 
 ## 5. Install and Configure:
