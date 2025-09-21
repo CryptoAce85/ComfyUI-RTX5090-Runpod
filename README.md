@@ -52,6 +52,18 @@ This sets up the Conda environment (Comfyui). (Takes approximately 25min)
 This downloads models and installs 
 RES4LYF, WAS Node Suite, and ComfyUI_tinyterraNodes. (Takes approximately 15min)
 
+## 6,5 Update: If you want NSFW workflow.   SDXL_NSFW_V2
+##  Run these commands separately:
+
+    chmod +x /workspace/install_SDXL_NSFW_V2.sh
+
+ -----                     
+
+    /workspace/install_SDXL_NSFW_V2.sh
+
+-------------------------------------------
+------------------------------------
+# To start Comfy UI ⤵
 
 ## 7. Make the startup script executable:
     chmod +x /workspace/Run_Comfyui.sh
