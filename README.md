@@ -84,8 +84,11 @@ Run the startup command:
 
 ## 9. Open Port 8188 HTTP Service
 
-## 10. Add the workflow 
+## 10. Add the workflow's
 "Wan22_Image_Gen_FP8_VRAM_CLEAN.json" 
+
+"CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json"
+
 inside Comfy UI
 
 ## 11. Add your Wan2.2 loRAs in:
