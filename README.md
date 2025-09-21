@@ -9,7 +9,7 @@
 ## Visit (https://runpod.io?ref=rlihjocv) and log in.  ( If you dont have an acc use my ref link )
 Select "Storage" and choose the Data Center EUR-IS-1 (recommended for RTX 5090 availability, but verify GPU stock).
 
-Set Storage to at least 150 GB HDD (NVMe recommended for faster I/O) to accommodate current usage (~80 GB) and future needs.
+Set Storage to at least 200 GB HDD (NVMe recommended for faster I/O) to accommodate current usage (~115 GB) and future needs.
 
 Use template: https://console.runpod.io/explore/runpod-torch-v280 (runpod/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04).
 
