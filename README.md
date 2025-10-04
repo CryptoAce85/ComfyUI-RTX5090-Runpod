@@ -98,7 +98,7 @@ workspace/ComfyUI/models/loras
 ## 12. And when you restart a new pod you only need to
 Run the startup command:
 
-    ./Run_Comfyui.sh
+    bash /workspace/Run_Comfyui.sh
     
 ## 13. for installing more in terminal make sure you have a (comfyui) before input, 
 ## like this example:  (comfyui) root@fa3d277f1403:/workspace#
