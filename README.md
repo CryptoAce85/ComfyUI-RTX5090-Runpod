@@ -31,7 +31,7 @@ download_WAN2.2_T2I_models_fp8.sh   (content below)
 
 install_SDXL_NSFW_V2.sh
 
-## 4,5. (RECOMENDED) Or pull everything directly to /workspace in JupyterLab's terminal:
+## 4,5. (RECOMENDED) Or pull everything directly to /workspace from JupyterLab's terminal:
 
     set -euo pipefail
     cd /workspace
