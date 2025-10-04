@@ -101,6 +101,13 @@ Run the startup command:
 
 inside Comfy UI
 
+## 10,5. If you previously did (4,5.RECOMENDED) the files is in your /workspace. Move them by bashing this:
+
+    mkdir -p /workspace/ComfyUI/user/default/workflows \
+    && mv -v /workspace/{Wan22_Image_Gen_FP8_VRAM_CLEAN.json,CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json} \
+          /workspace/ComfyUI/user/default/workflows/
+
+
 ## 11. Add your Wan2.2 loRAs in:
 workspace/ComfyUI/models/loras
 
