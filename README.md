@@ -151,6 +151,11 @@ For making the LoRA's feel free to use
 
 ## https://github.com/CryptoAce85/image-captioner-lora-V2-Windows-edition
 
-=======================================================================
- ## If you want to download more loras i have already added the CivitAI extension in Comfy UI, here is an explaination video on how to use it: https://www.youtube.com/watch?v=90s6OLIy5Ec
 
+ -----                     
+
+ ## If you want to download more loras i have already added the CivitAI extension in Comfy UI, here is an explaination video on how to use it:
+ ## https://www.youtube.com/watch?v=90s6OLIy5Ec
+
+ -----                     
+## Enjoy
