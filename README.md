@@ -94,22 +94,22 @@ Run the startup command:
 
 ## 9. Open Port 8188 HTTP Service
 
-## 10. Add the workflow's
-"Wan22_Image_Gen_FP8_VRAM_CLEAN.json" 
 
-"CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json"
-
-inside Comfy UI
-
-## 10,5. If you previously did (4,5.RECOMENDED) the files is in your /workspace. Move them by bashing this:
+## 10. If you previously did (4,5.RECOMENDED) the files is in your /workspace. (Skip 11.) Move them by bashing this command:
 
     mkdir -p /workspace/ComfyUI/user/default/workflows \
     && mv -v /workspace/{Wan22_Image_Gen_FP8_VRAM_CLEAN.json,CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json} \
           /workspace/ComfyUI/user/default/workflows/
 
 
-## 11. Add your Wan2.2 loRAs in:
+## 11. Add the workflow's
+"Wan22_Image_Gen_FP8_VRAM_CLEAN.json" 
+
+"CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json"
+
+inside Comfy UI:
 workspace/ComfyUI/models/loras
+
 
 
 ## 12. And when you restart a new pod you only need to
@@ -120,7 +120,7 @@ Run the startup command:
 ## 13. for installing more in terminal make sure you have a (comfyui) before input, 
 ## like this example:  (comfyui) root@fa3d277f1403:/workspace#
 
- ## you get the comfy ui enviorment by Bash:
+ ## you get the comfyui enviorment by Bashing this command and then open a new terminal and bash it again:
     
     /workspace/miniconda3/bin/conda init bash
     conda activate comfyui
