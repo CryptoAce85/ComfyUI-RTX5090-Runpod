@@ -101,6 +101,7 @@ Run the startup command:
     && mv -v /workspace/{Wan22_Image_Gen_FP8_VRAM_CLEAN.json,CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json} \
           /workspace/ComfyUI/user/default/workflows/
 
+ -----                     
 
 ## 11. Add the workflow's
 "Wan22_Image_Gen_FP8_VRAM_CLEAN.json" 
