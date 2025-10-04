@@ -108,8 +108,9 @@ Run the startup command:
 
 "CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json"
 
-inside Comfy UI:
-workspace/ComfyUI/models/loras
+Put them directly in the Comfy ui or in the directory:
+
+/workspace/ComfyUI/user/default/workflows/
 
 
 
