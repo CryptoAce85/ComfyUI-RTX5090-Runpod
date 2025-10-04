@@ -95,7 +95,7 @@ Run the startup command:
 ## 9. Open Port 8188 HTTP Service
 
 
-## 10. If you previously did (4,5.RECOMENDED) the files is in your /workspace. (Skip 11.) Move them by bashing this command:
+## 10. If you previously did (4,5.RECOMENDED) the files is in your /workspace. (Skip 11.) Move them by bashing this command in terminal:
 
     mkdir -p /workspace/ComfyUI/user/default/workflows \
     && mv -v /workspace/{Wan22_Image_Gen_FP8_VRAM_CLEAN.json,CryptoAce_NSFW_V2_VRAM_CLEAN_FP8.json} \
