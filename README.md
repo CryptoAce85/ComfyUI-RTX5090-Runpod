@@ -31,6 +31,16 @@ download_WAN2.2_T2I_models_fp8.sh   (content below)
 
 install_SDXL_NSFW_V2.sh
 
+## 4,5. (RECOMENDED) Or pull everything directly to /workspace/:
+
+    set -euo pipefail
+    cd /workspace
+    tmpdir="$(mktemp -d)"
+    git clone --depth 1 https://github.com/CryptoAce85/ComfyUI-RTX5090-Runpod "$tmpdir"
+    rsync -a --delete --exclude '.git' --exclude 'README.md' "$tmpdir"/ /workspace/
+    rm -rf "$tmpdir"
+
+
 ## 5. Install and Configure:
 Open a terminal in JupyterLab and ensure you’re 
 in the /workspace directory on the new HDD 
