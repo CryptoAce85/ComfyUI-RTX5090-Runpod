@@ -127,6 +127,10 @@ Run the startup command:
     /workspace/miniconda3/bin/conda init bash
     conda activate comfyui
 
+## 14. For killing all ports use this command:
+
+    # Kill port 8188 and all ComfyUI processes
+    sudo lsof -ti:8188 | xargs -r kill -9 && pkill -9 -f "ComfyUI" && pkill -9 -f "main.py" && echo "Port 8188 cleared"
 
 
 (Total time for install is approximately 45min)
@@ -135,7 +139,7 @@ DONE! ❤
 --------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 
-## 13. If your HDD is full of images and you want to delete 
+## 15. If your HDD is full of images and you want to delete 
 all .png files from that directroy just Bash:
 
     rm /workspace/ComfyUI/output/*.png
